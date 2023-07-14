@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Angular Self paced\DAY 05\DAY05 Assishnment-07\DAY05 Assishnment-07\bin\Debug\DAY05 Assishnment-07.exe.config
+C:\Users\Administrator\Desktop\Angular Self paced\DAY 05\DAY05 Assishnment-07\DAY05 Assishnment-07\bin\Debug\DAY05 Assishnment-07.exe
+C:\Users\Administrator\Desktop\Angular Self paced\DAY 05\DAY05 Assishnment-07\DAY05 Assishnment-07\bin\Debug\DAY05 Assishnment-07.pdb
+C:\Users\Administrator\Desktop\Angular Self paced\DAY 05\DAY05 Assishnment-07\DAY05 Assishnment-07\obj\Debug\DAY05 Assishnment-07.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Angular Self paced\DAY 05\DAY05 Assishnment-07\DAY05 Assishnment-07\obj\Debug\DAY05 Assishnment-07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Angular Self paced\DAY 05\DAY05 Assishnment-07\DAY05 Assishnment-07\obj\Debug\DAY05 Assishnment-07.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Angular Self paced\DAY 05\DAY05 Assishnment-07\DAY05 Assishnment-07\obj\Debug\DAY05 Assishnment-07.exe
+C:\Users\Administrator\Desktop\Angular Self paced\DAY 05\DAY05 Assishnment-07\DAY05 Assishnment-07\obj\Debug\DAY05 Assishnment-07.pdb
